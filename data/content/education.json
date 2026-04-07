@@ -1,0 +1,150 @@
+{
+  "en": [
+    {
+      "period": "2012",
+      "degree": "Diploma",
+      "title": "Project Management",
+      "institution": "Universidad Latina de Panamá",
+      "institutionUrl": "https://www.ulatina.edu.pa/",
+      "mainDescription": "Specialized diploma in project management methodologies and PMO practices.",
+      "highlights": [
+        "Focused on project management frameworks and tools",
+        "Applied PMO best practices and standards"
+      ]
+    },
+    {
+      "period": "2007 - 2008",
+      "degree": "Master's Degree",
+      "title": "MBA — Master of Business Administration, Marketing",
+      "institution": "Universidad Interamericana de Panamá",
+      "institutionUrl": "https://uip.edu.pa/",
+      "mainDescription": "Master of Business Administration with emphasis in Marketing, covering market strategy, consumer behavior, and brand management.",
+      "highlights": [
+        "Specialized in marketing strategy and brand management",
+        "Developed expertise in market analysis and consumer behavior"
+      ]
+    },
+    {
+      "period": "2001 - 2002",
+      "degree": "Master's Degree",
+      "title": "MBA — Master of Business Administration, Finance",
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)",
+      "institutionUrl": "https://uip.edu.pa/",
+      "mainDescription": "Master of Business Administration with emphasis in Finance, covering financial analysis, corporate strategy, and investment management.",
+      "highlights": [
+        "Graduated Summa Cum Laude Probatus",
+        "Specialized in financial analysis and corporate strategy"
+      ]
+    },
+    {
+      "period": "2001 - 2002",
+      "degree": "Postgraduate",
+      "title": "Strategic Management",
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)",
+      "institutionUrl": "https://uip.edu.pa/",
+      "mainDescription": "Postgraduate program focused on strategic planning, organizational management, and competitive analysis.",
+      "highlights": [
+        "Graduated Summa Cum Laude Probatus",
+        "Focused on strategic planning and organizational management"
+      ]
+    },
+    {
+      "period": "1996 - 2000",
+      "degree": "Bachelor's Degree",
+      "title": "Bachelor of Information Technology (Computer Engineering)",
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)",
+      "institutionUrl": "https://uip.edu.pa/",
+      "mainDescription": "Comprehensive study of computer engineering fundamentals including software development, database administration, and systems analysis.",
+      "highlights": [
+        "Graduated Cum Laude",
+        "Focused on software development, databases, and systems analysis"
+      ]
+    },
+    {
+      "period": "1982 - 1995",
+      "degree": "High School",
+      "title": "Sciences, Humanities and Commerce",
+      "institution": "Instituto Pedagógico",
+      "institutionUrl": "#",
+      "mainDescription": "High school diploma with focus on Sciences, Humanities, and introductory Commerce.",
+      "highlights": [
+        "Specialized in sciences and humanities",
+        "Introductory coursework in commerce and business"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "period": "2012",
+      "degree": "Diplomado",
+      "title": "Administración de Proyectos",
+      "institution": "Universidad Latina de Panamá",
+      "institutionUrl": "https://www.ulatina.edu.pa/",
+      "mainDescription": "Diplomado especializado en metodologías de gestión de proyectos y mejores prácticas de PMO.",
+      "highlights": [
+        "Enfocado en marcos de trabajo y herramientas de gestión de proyectos",
+        "Aplicación de mejores prácticas y estándares de PMO"
+      ]
+    },
+    {
+      "period": "2007 - 2008",
+      "degree": "Maestría",
+      "title": "Maestría en Administración de Empresas con énfasis en Mercadeo (MBA)",
+      "institution": "Universidad Interamericana de Panamá",
+      "institutionUrl": "https://uip.edu.pa/",
+      "mainDescription": "Maestría en Administración de Empresas con énfasis en Mercadeo, abarcando estrategia de mercado, comportamiento del consumidor y gestión de marca.",
+      "highlights": [
+        "Especialización en estrategia de marketing y gestión de marca",
+        "Desarrollo de competencias en análisis de mercado y comportamiento del consumidor"
+      ]
+    },
+    {
+      "period": "2001 - 2002",
+      "degree": "Maestría",
+      "title": "Maestría en Administración de Empresas con énfasis en Finanzas (MBA)",
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)",
+      "institutionUrl": "https://uip.edu.pa/",
+      "mainDescription": "Maestría en Administración de Empresas con énfasis en Finanzas, abarcando análisis financiero, estrategia corporativa y gestión de inversiones.",
+      "highlights": [
+        "Graduado Summa Cum Laude Probatus",
+        "Especialización en análisis financiero y estrategia corporativa"
+      ]
+    },
+    {
+      "period": "2001 - 2002",
+      "degree": "Postgrado",
+      "title": "Postgrado en Administración Estratégica",
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)",
+      "institutionUrl": "https://uip.edu.pa/",
+      "mainDescription": "Programa de postgrado enfocado en planificación estratégica, gestión organizacional y análisis competitivo.",
+      "highlights": [
+        "Graduado Summa Cum Laude Probatus",
+        "Enfoque en planificación estratégica y gestión organizacional"
+      ]
+    },
+    {
+      "period": "1996 - 2000",
+      "degree": "Licenciatura",
+      "title": "Licenciatura en Ingeniería Informática",
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)",
+      "institutionUrl": "https://uip.edu.pa/",
+      "mainDescription": "Estudio integral de los fundamentos de la ingeniería informática, incluyendo desarrollo de software, administración de bases de datos y análisis de sistemas.",
+      "highlights": [
+        "Graduado Cum Laude",
+        "Enfoque en desarrollo de software, bases de datos y análisis de sistemas"
+      ]
+    },
+    {
+      "period": "1982 - 1995",
+      "degree": "Bachillerato",
+      "title": "Bachiller en Ciencias y Letras con Nociones de Comercio",
+      "institution": "Instituto Pedagógico",
+      "institutionUrl": "#",
+      "mainDescription": "Bachillerato con énfasis en Ciencias, Letras e introducción al Comercio.",
+      "highlights": [
+        "Especialización en ciencias y humanidades",
+        "Cursos introductorios de comercio y negocios"
+      ]
+    }
+  ]
+}

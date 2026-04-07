@@ -1,0 +1,12 @@
+{
+  "en": [
+    { "name": "Spanish", "percent": 100 },
+    { "name": "English", "percent": 90 },
+    { "name": "French",  "percent": 30 }
+  ],
+  "es": [
+    { "name": "Español", "percent": 100 },
+    { "name": "Inglés",  "percent": 90 },
+    { "name": "Francés", "percent": 30 }
+  ]
+}

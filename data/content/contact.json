@@ -1,0 +1,16 @@
+{
+  "en": {
+    "formAction": "https://formspree.io/f/mqegjzbl",
+    "mapImage": "images/staticmap.png",
+    "address": "Panama city, Panama",
+    "phone": "(+507) 6672-5998",
+    "email": "virgilio.olivardia@gmail.com"
+  },
+  "es": {
+    "formAction": "https://formspree.io/f/mqegjzbl",
+    "mapImage": "images/staticmap.png",
+    "address": "Ciudad de Panamá, Panamá",
+    "phone": "(+507) 6672-5998",
+    "email": "virgilio.olivardia@gmail.com"
+  }
+}

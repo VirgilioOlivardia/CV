@@ -1,0 +1,26 @@
+{
+  "en": {
+    "title": "Contact Me",
+    "tagline": "Feel free to contact me",
+    "namePlaceholder": "Name",
+    "subjectPlaceholder": "Subject",
+    "emailPlaceholder": "E-mail",
+    "messagePlaceholder": "Your Message",
+    "send": "Send",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "es": {
+    "title": "Contáctame",
+    "tagline": "No dudes en contactarme",
+    "namePlaceholder": "Nombre",
+    "subjectPlaceholder": "Asunto",
+    "emailPlaceholder": "Correo electrónico",
+    "messagePlaceholder": "Tu mensaje",
+    "send": "Enviar",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Correo"
+  }
+}

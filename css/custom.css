@@ -1,0 +1,90 @@
+/* ── Timeline (Experience & Education) ─────────────────────────────────── */
+.cc-timeline {
+  position: relative;
+  padding-left: 2.5rem;
+}
+
+.cc-timeline::before {
+  content: '';
+  position: absolute;
+  left: 0.6rem;
+  top: 0.5rem;
+  bottom: 0;
+  width: 2px;
+  background-color: #e9ecef;
+}
+
+.cc-timeline-item {
+  position: relative;
+  padding-bottom: 2rem;
+}
+
+.cc-timeline-dot {
+  position: absolute;
+  left: -2.5rem;
+  top: 0.2rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  border-radius: 50%;
+  border: 2px solid #7A5240;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cc-timeline-dot::after {
+  content: '';
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 50%;
+  background-color: #7A5240;
+}
+
+.cc-timeline-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.15rem;
+}
+
+.cc-timeline-title a {
+  color: #7A5240;
+  text-decoration: none;
+}
+
+.cc-timeline-title a:hover {
+  text-decoration: underline;
+}
+
+.cc-timeline-period {
+  font-size: 0.8rem;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
+
+.cc-timeline-body p {
+  margin-bottom: 0.4rem;
+}
+
+.cc-timeline-body ul {
+  padding-left: 1.25rem;
+  margin-bottom: 0;
+}
+
+.cc-timeline-body ul li {
+  margin-bottom: 0.2rem;
+}
+
+/* ── Language selector ──────────────────────────────────────────────────── */
+.cc-lang-switcher #lang-select {
+  background: transparent;
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.4);
+  width: auto;
+  cursor: pointer;
+}
+
+.cc-lang-switcher #lang-select option {
+  color: #333;
+  background: #fff;
+}

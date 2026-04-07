@@ -1,0 +1,24 @@
+{
+  "en": {
+    "backgroundImage": "images/cv-pm.jpg",
+    "photo": "images/Virgilio-Olivardia.jpg",
+    "name": "Virgilio Olivardia",
+    "title": "Certified Project Manager",
+    "cvUrl": "#",
+    "socialLinks": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/virgilioolivardia", "icon": "fa-linkedin", "tooltip": "Follow me on LinkedIn" },
+      { "platform": "GitHub",   "url": "https://github.com/VirgilioOlivardia",          "icon": "fa-github",   "tooltip": "Follow me on GitHub" }
+    ]
+  },
+  "es": {
+    "backgroundImage": "images/cv-pm.jpg",
+    "photo": "images/Virgilio-Olivardia.jpg",
+    "name": "Virgilio Olivardia",
+    "title": "Gerente de Proyectos Certificado",
+    "cvUrl": "#",
+    "socialLinks": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/virgilioolivardia", "icon": "fa-linkedin", "tooltip": "Sígueme en LinkedIn" },
+      { "platform": "GitHub",   "url": "https://github.com/VirgilioOlivardia",          "icon": "fa-github",   "tooltip": "Sígueme en GitHub" }
+    ]
+  }
+}

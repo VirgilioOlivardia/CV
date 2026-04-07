@@ -80,7 +80,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-brown,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brown {
   color: #fff;
-  background: #378C3F; }
+  background: #7A5240; }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-blue {
@@ -90,7 +90,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-green,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-green {
   color: #fff;
-  background: #18ce0f; }
+  background: #7A5240; }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-orange,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-orange {
@@ -352,7 +352,7 @@
   -webkit-transition: 300ms ease 0s;
   -moz-transition: 300ms ease 0s;
   -ms-transition: 300ms ease 0s;
-  -o-transform: 300ms ease 0s;
+  transform: 300ms ease 0s;
   transition: 300ms ease 0s; }
 
 .noUi-active {
@@ -1254,13 +1254,13 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #7A5240;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #40a249;
+    background-color: #9A6B55;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -1272,21 +1272,21 @@
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:active,
   fieldset[disabled] .btn-primary.active {
-    background-color: #378C3F;
-    border-color: #378C3F; }
+    background-color: #7A5240;
+    border-color: #7A5240; }
   .btn-primary.btn-simple {
-    color: #378C3F;
-    border-color: #378C3F; }
+    color: #7A5240;
+    border-color: #7A5240; }
     .btn-primary.btn-simple:hover, .btn-primary.btn-simple:focus, .btn-primary.btn-simple:active {
       background-color: transparent;
-      color: #40a249;
-      border-color: #40a249;
+      color: #8b6452;
+      border-color: #8b6452;
       box-shadow: none; }
   .btn-primary.btn-link {
-    color: #378C3F; }
+    color: #7A5240; }
     .btn-primary.btn-link:hover, .btn-primary.btn-link:focus, .btn-primary.btn-link:active {
       background-color: transparent;
-      color: #40a249;
+      color: #8b6452;
       text-decoration: none;
       box-shadow: none; }
 
@@ -2012,7 +2012,7 @@ textarea.form-control {
   .progress-container ~ .progress-container {
     margin-top: 15px; }
   .progress-container .progress-badge {
-    color: #888;
+    color: #d1b578;
     font-size: 0.8571em;
     text-transform: uppercase; }
   .progress-container .progress {
@@ -2023,12 +2023,12 @@ textarea.form-control {
     margin-top: 14px; }
     .progress-container .progress .progress-bar {
       box-shadow: none;
-      background-color: #888; }
+      background-color: #d1b578; }
     .progress-container .progress .progress-value {
       position: absolute;
       top: 2px;
       right: 0;
-      color: #888;
+      color: #d1b578;
       font-size: 0.8571em; }
   .progress-container.progress-neutral .progress {
     background: rgba(255, 255, 255, 0.3); }
@@ -2038,12 +2038,12 @@ textarea.form-control {
   .progress-container.progress-neutral .progress-badge {
     color: #FFFFFF; }
   .progress-container.progress-primary .progress {
-    background: rgba(55, 140, 63, 0.4); }
+    background: #d1b578; }
   .progress-container.progress-primary .progress-bar {
-    background: #378C3F; }
+    background: #7A5240; }
   .progress-container.progress-primary .progress-value,
   .progress-container.progress-primary .progress-badge {
-    color: #378C3F; }
+    color: #7A5240; }
   .progress-container.progress-info .progress {
     background: rgba(44, 168, 255, 0.3); }
   .progress-container.progress-info .progress-bar {
@@ -2399,10 +2399,10 @@ body {
   color: #FFFFFF; }
   .nav-pills.nav-pills-neutral .nav-item .nav-link.active, .nav-pills.nav-pills-neutral .nav-item .nav-link.active:focus, .nav-pills.nav-pills-neutral .nav-item .nav-link.active:hover {
     background-color: #FFFFFF;
-    color: #378C3F; }
+    color: #7A5240; }
 
 .nav-pills.nav-pills-primary .nav-item .nav-link.active, .nav-pills.nav-pills-primary .nav-item .nav-link.active:focus, .nav-pills.nav-pills-primary .nav-item .nav-link.active:hover {
-  background-color: #378C3F; }
+  background-color: #7A5240; }
 
 .nav-pills.nav-pills-info .nav-item .nav-link.active, .nav-pills.nav-pills-info .nav-item .nav-link.active:focus, .nav-pills.nav-pills-info .nav-item .nav-link.active:hover {
   background-color: #2CA8FF; }
@@ -2430,8 +2430,13 @@ body {
     color: #3ea1ec; }
 
 .btn-facebook {
-  color: #3b5998; }
+  color: #25D366; }
   .btn-facebook:hover, .btn-facebook:focus, .btn-facebook:active {
+    color: #34B7F1; }
+
+.btn-whatsapp {
+  color: #3b5998; }
+  .btn-whatsapp:hover, .btn-whatsapp:focus, .btn-whatsapp:active {
     color: #344e86; }
 
 .btn-google {
@@ -2598,7 +2603,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #378C3F !important; }
+  background-color: #7A5240 !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -3831,7 +3836,7 @@ Created using IcoMoon - icomoon.io
     z-index: 0;
     width: 100%;
     height: 100%;
-    display: block;
+    display: none;
     left: 0;
     top: 0;
     content: ""; }
@@ -4998,7 +5003,9 @@ Created using IcoMoon - icomoon.io
 .gallery .cc-porfolio-image figure {
   position: relative;
   overflow: hidden;
-  text-align: center; }
+  display: flex;
+  align-items: center;
+  justify-content: center; }
 
 .gallery .cc-porfolio-image figure img {
   position: relative;
@@ -5009,6 +5016,7 @@ Created using IcoMoon - icomoon.io
 .gallery .cc-porfolio-image figure figcaption {
   position: absolute;
   color: #fff;
+  text-align: center;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden; }
 
@@ -5054,7 +5062,7 @@ Created using IcoMoon - icomoon.io
   transform-origin: 100% 0; }
 
 .gallery figure.cc-effect .h4 {
-  margin-top: 25%;
+  margin-top: 10%;
   transition: transform 0.35s;
   opacity: 0; }
   @media (max-width: 480px) {
@@ -5123,7 +5131,7 @@ Created using IcoMoon - icomoon.io
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
+  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(61, 43, 35, 0.6));
   /* Standard syntax */ }
   .page-header .btn {
     width: 140px; }
@@ -5236,7 +5244,7 @@ Created using IcoMoon - icomoon.io
   background: #a5a3a3; }
 
 .cc-reference .carousel-indicators .active {
-  background-color: #378C3F; }
+  background-color: #7A5240 /*#378C3F*/; }
 
 .cc-reference .carousel-inner {
   box-shadow: none; }
@@ -5264,6 +5272,9 @@ Created using IcoMoon - icomoon.io
 /* Social button style */
 .cc-facebook:hover i {
   color: #3b5998; }
+
+.cc-whatsapp:hover i {
+  color: #34B7F1; }
 
 .cc-twitter:hover i {
   color: #1da1f2; }
