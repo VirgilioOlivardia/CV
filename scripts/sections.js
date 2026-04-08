@@ -124,7 +124,7 @@ $(function () {
     var tabs = C.portfolio[lang].tabs;
     $('#portfolio-tabs').html(tabs.map(function (tab, i) {
       return '<li class="nav-item">' +
-             '<a class="nav-link' + (i === 0 ? ' active' : '') + '" data-toggle="tab" href="#' + tab.id + '" role="tablist">' +
+             '<a class="nav-link' + (i === 0 ? ' active' : '') + '" data-toggle="tab" href="' + tab.id + '" role="tablist">' +
              '<i class="fa ' + tab.icon + '" aria-hidden="true"></i></a></li>';
     }).join(''));
     $('#portfolio-panes').html(tabs.map(function (tab, i) {
