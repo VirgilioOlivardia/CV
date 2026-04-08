@@ -4,6 +4,7 @@
       {
         "id": "Certifications",
         "icon": "fa-certificate",
+        "desc": "Cert.",
         "items": [
           { "title": "PMI-ACP",       "subtitle": "Agile Certified Practitioner", "image": "./images/PMI-ACP-Badge.webp", "href": "./images/pmi-acp-certificate.pdf" },
           { "title": "PMP",      "subtitle": "Project Management Professional", "image": "./images/pmp-badge.webp",     "href": "./images/pmp-certificate.pdf" }
@@ -17,6 +18,7 @@
       {
         "id": "Certifications",
         "icon": "fa-certificate",
+        "desc": "Certificaciones",
         "items": [
           { "title": "PMI-ACP",      "subtitle": "Practicante certificado de metodologías ágiles", "image": "./images/PMI-ACP-Badge.webp", "href": "./images/pmi-acp-certificate.pdf" },
           { "title": "PMP",       "subtitle": "Profesional de administración de proyectos", "image": "./images/pmp-badge.webp",     "href": "./images/pmp-certificate.pdf" }

@@ -4,7 +4,8 @@
     "photo": "images/Virgilio-Olivardia.jpg",
     "name": "Virgilio Olivardia",
     "title": "Certified Project Manager",
-    "cvUrl": "#",
+    "cvUrlen": "./images/CV_English.pdf",
+    "cvUrles": "./images/CV_Spanish.pdf",
     "socialLinks": [
       { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/virgilioolivardia", "icon": "fa-linkedin", "tooltip": "Follow me on LinkedIn" },
       { "platform": "GitHub",   "url": "https://github.com/VirgilioOlivardia",          "icon": "fa-github",   "tooltip": "Follow me on GitHub" }
@@ -15,7 +16,8 @@
     "photo": "images/Virgilio-Olivardia.jpg",
     "name": "Virgilio Olivardia",
     "title": "Gerente de Proyectos Certificado",
-    "cvUrl": "#",
+    "cvUrlen": "./images/CV_English.pdf",
+    "cvUrles": "./images/CV_Spanish.pdf",
     "socialLinks": [
       { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/virgilioolivardia", "icon": "fa-linkedin", "tooltip": "Sígueme en LinkedIn" },
       { "platform": "GitHub",   "url": "https://github.com/VirgilioOlivardia",          "icon": "fa-github",   "tooltip": "Sígueme en GitHub" }

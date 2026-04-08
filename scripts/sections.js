@@ -61,6 +61,8 @@ $(function () {
     $('#profile-name').text(p.name);
     $('#profile-title').text(p.title);
     $('#profile-cv-link').attr('href', p.cvUrl);
+    $('#profile-downloadCVen').text(p.downloadCVen);
+    $('#profile-downloadCVes').text(p.downloadCVes);
     $('#profile-social').html(p.socialLinks.map(function (link) {
       return '<a class="btn btn-default btn-round btn-lg btn-icon" href="' + link.url + '" rel="tooltip" title="' + link.tooltip + '">' +
              '<i class="fa ' + link.icon + '"></i></a>';

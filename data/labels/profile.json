@@ -1,4 +1,14 @@
 {
-  "en": { "hireMe": "Hire Me", "downloadCV": "Download CV" },
-  "es": { "hireMe": "Contráctame", "downloadCV": "Descargar CV" }
+  "en": { 
+      "hireMe": "Hire Me"
+    , "downloadCV": "Download CV"
+    , "downloadCVen": "CV English"
+    , "downloadCVes": "CV Spanish"
+   },
+  "es": { 
+    "hireMe": "Contráctame"
+    , "downloadCV": "Descargar CV"
+    , "downloadCVen": "CV Inglés"
+    , "downloadCVes": "CV Español"
+   }
 }
