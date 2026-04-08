@@ -9,6 +9,26 @@
           { "title": "PMP",      "subtitle": "Project Management Professional", "image": "./images/pmp-badge.webp",     "href": "./images/pmp-certificate.pdf" }
           
         ]
+      },
+      {
+        "id": "graphic-design",
+        "icon": "fa-graduation-cap",
+        "items": [
+          { "title": "Triangle Pattern",      "subtitle": "Graphic Design", "image": "images/graphic-design-1.jpg", "href": "#graphic-design" },
+          { "title": "Abstract Umbrella",     "subtitle": "Graphic Design", "image": "images/graphic-design-2.jpg", "href": "#graphic-design" },
+          { "title": "Cube Surface Texture",  "subtitle": "Graphic Design", "image": "images/graphic-design-3.jpg", "href": "#graphic-design" },
+          { "title": "Abstract Line",         "subtitle": "Graphic Design", "image": "images/graphic-design-4.jpg", "href": "#graphic-design" }
+        ]
+      },
+      {
+        "id": "Photography",
+        "icon": "fa-camera",
+        "items": [
+          { "title": "Photoshoot",         "subtitle": "Photography", "image": "images/photography-1.jpg", "href": "#Photography" },
+          { "title": "Wedding Photoshoot", "subtitle": "Photography", "image": "images/photography-3.jpg", "href": "#Photography" },
+          { "title": "Beach Photoshoot",   "subtitle": "Photography", "image": "images/photography-2.jpg", "href": "#Photography" },
+          { "title": "Nature Photoshoot",  "subtitle": "Photography", "image": "images/photography-4.jpg", "href": "#Photography" }
+        ]
       }
     ]
   },
