@@ -5,7 +5,7 @@
         "id": "Certifications",
         "icon": "fa-certificate",
         "items": [
-          { "title": "PMI-ACP",       "subtitle": "Agile Certified Practitioner", "image": "./images/PMI-ACP.webp", "href": "./images/pmi-acp-certificate.pdf" },
+          { "title": "PMI-ACP",       "subtitle": "Agile Certified Practitioner", "image": "./images/PMI-ACP-Badge.webp", "href": "./images/pmi-acp-certificate.pdf" },
           { "title": "PMP",      "subtitle": "Project Management Professional", "image": "./images/pmp-badge.webp",     "href": "./images/pmp-certificate.pdf" }
           
         ]
