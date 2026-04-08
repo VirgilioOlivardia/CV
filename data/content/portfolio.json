@@ -18,29 +18,9 @@
         "id": "Certifications",
         "icon": "fa-certificate",
         "items": [
-          { "title": "PMI-ACP",      "subtitle": "Practicante certificado de metodologías ágiles", "image": "images/pmi-acp-badge.webp", "href": "#web-development" },
-          { "title": "PMP",       "subtitle": "Profesional de administración de proyectos", "image": "images/pmp-badge.webp",     "href": "#web-development" }
+          { "title": "PMI-ACP",      "subtitle": "Practicante certificado de metodologías ágiles", "image": "./images/PMI-ACP-Badge.webp", "href": "./images/pmi-acp-certificate.pdf" },
+          { "title": "PMP",       "subtitle": "Profesional de administración de proyectos", "image": "./images/pmp-badge.webp",     "href": "./images/pmp-certificate.pdf" }
           
-        ]
-      },
-      {
-        "id": "graphic-design",
-        "icon": "fa-graduation-cap",
-        "items": [
-          { "title": "Patrón Triangular",     "subtitle": "Diseño Gráfico", "image": "images/graphic-design-1.jpg", "href": "#graphic-design" },
-          { "title": "Paraguas Abstracto",    "subtitle": "Diseño Gráfico", "image": "images/graphic-design-2.jpg", "href": "#graphic-design" },
-          { "title": "Textura Cúbica",        "subtitle": "Diseño Gráfico", "image": "images/graphic-design-3.jpg", "href": "#graphic-design" },
-          { "title": "Línea Abstracta",       "subtitle": "Diseño Gráfico", "image": "images/graphic-design-4.jpg", "href": "#graphic-design" }
-        ]
-      },
-      {
-        "id": "Photography",
-        "icon": "fa-camera",
-        "items": [
-          { "title": "Sesión Fotográfica",    "subtitle": "Fotografía", "image": "images/photography-1.jpg", "href": "#Photography" },
-          { "title": "Sesión de Boda",        "subtitle": "Fotografía", "image": "images/photography-3.jpg", "href": "#Photography" },
-          { "title": "Sesión en la Playa",    "subtitle": "Fotografía", "image": "images/photography-2.jpg", "href": "#Photography" },
-          { "title": "Sesión en la Naturaleza","subtitle": "Fotografía", "image": "images/photography-4.jpg", "href": "#Photography" }
         ]
       }
     ]
