@@ -2,7 +2,7 @@
   "en": [
         { "name": "Project Management",       "percent": 95 },
     { "name": "Communication and Stakeholder Management",        "percent": 91 },
-    { "name": "Team Leadership", "percent": 891 },
+    { "name": "Team Leadership", "percent": 89 },
     { "name": "Agile Methodologies",       "percent": 86 },
     { "name": "Change Management",  "percent": 84 },
     { "name": "Strategic Planning",        "percent": 81 },
@@ -15,13 +15,13 @@
   "es": [
     { "name": "Gestión de Proyectos",       "percent": 95 },
     { "name": "Comunicación y Gestión de Stakeholders",        "percent": 91 },
-    { "name": "Liderazgo de equipos", "percent": 891 },
+    { "name": "Liderazgo de equipos", "percent": 89 },
     { "name": "Metodologías Ágiles",       "percent": 86 },
     { "name": "Gestión del Cambio",  "percent": 84 },
     { "name": "Planificación Estratégica",        "percent": 81 },
     { "name": "PMO y Gobierno de Proyectos", "percent": 80 },
     { "name": "Análisis de Datos / Business Intelligence",       "percent": 77 },
     { "name": "Gestión de Riesgos y Continuidad",  "percent": 73 },
-    { "name": " Transformación Digital e IA aplicada",  "percent": 70 }
+    { "name": "Transformación Digital e IA aplicada",  "percent": 70 }
   ]
 }
