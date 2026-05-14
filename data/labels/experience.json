@@ -1,4 +1,4 @@
 {
-  "en": { "title": "Work Experience" },
-  "es": { "title": "Experiencia Laboral" }
+  "en": { "title": "Work Experience", "resp": "Responsibilities", "achv": "Achievements" },
+  "es": { "title": "Experiencia Laboral", "resp": "Responsabilidades", "achv": "Logros" }
 }

@@ -1,7 +1,7 @@
 {
   "en": {
     "backgroundImage": "images/cv-pm.jpg",
-    "photo": "images/Virgilio-Olivardia.jpg",
+    "photo": "images/cv-vo.jpg",
     "name": "Virgilio Olivardia",
     "title": "Certified Project Manager",
     "cvUrlen": "./images/CV_English.pdf",
@@ -13,7 +13,7 @@
   },
   "es": {
     "backgroundImage": "images/cv-pm.jpg",
-    "photo": "images/Virgilio-Olivardia.jpg",
+    "photo": "images/cv-vo.jpg",
     "name": "Virgilio Olivardia",
     "title": "Gerente de Proyectos Certificado",
     "cvUrlen": "./images/CV_English.pdf",

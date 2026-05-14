@@ -1,279 +1,159 @@
 {
   "en": [
     {
-      "period": "January 2025 – December 2025",
+      "period": "January 2025 - December 2025",
       "company": "Save the Children International",
       "companyUrl": "https://www.savethechildren.org/",
-      "role": "Regional Change Management, Implementation and Training Specialist",
-      "mainResponsibility": "Supported organizational areas in the implementation of technological tools at a global level, responsible for change management, implementation coordination, and training program design for teams across multiple countries.",
-      "highlights": [
-        "Led organizational change management for global technology rollouts",
-        "Designed and delivered training programs for teams across multiple countries",
-        "Coordinated implementations ensuring alignment with organizational goals"
+      "role": "Regional Digital Transformation Project Manager",
+      "responsibilities": [
+        "Lead the implementation of the PRIME system for project management, ensuring process standardization, operational traceability, and strategic alignment with OKRs in Colombia and the LAC region.",
+        "Coordinate portfolios of technological initiatives by managing schedules, risks, dependencies and regional stakeholders, ensuring compliance with strategic milestones and global objectives.",
+        "Design and execute digital transformation strategies, technological adoption and KPI monitoring through executive reports and strategic indicators, strengthening decision-making, data quality and operational maturity of projects."
+      ],
+      "achievements": [
+        "I led the recovery of PRIME system adoption indicators, increasing the compliance level from 50% to 95% in just 4 months and maintaining sustained results throughout 2025.",
+        "I successfully implemented PRIME in Colombia, achieving 100% compliance ahead of the target date and aligning the largest country in the region with global execution standards."
       ]
     },
     {
-      "period": "March 2022 – January 2025",
+      "period": "March 2022 - January 2025",
       "company": "Save the Children International",
       "companyUrl": "https://www.savethechildren.org/",
       "role": "Regional Technology Development Specialist",
-      "mainResponsibility": "Led the implementation of global technological tools in the Latin America and Caribbean (LAC) region, coordinating with multiple stakeholders to ensure adoption and strategic alignment.",
-      "highlights": [
-        "Led the implementation of the Prime system in Colombia",
-        "Designed and implemented a partner outreach system using Microsoft PowerApps",
-        "Developed Power BI reporting dashboards for regional operations",
-        "Managed the implementation of a mobile app to support migrant children's learning in the United States",
-        "Issued weekly progress reports to leadership across all project stages"
+      "responsibilities": [
+        "Lead the implementation of global technology platforms for teams in the LAC region, coordinating international stakeholders and ensuring strategic alignment, achievement of objectives and regional adoption.",
+        "Manage end-to-end technology initiatives using Agile and Waterfall methodologies, including planning, monitoring, supplier evaluation, risk management, and coordination of multidisciplinary teams.",
+        "Design regional management and monitoring solutions using MicrosoftPowerAppsand executive dashboards in Power BI, strengthening the visibility of KPIs, strategic reporting, and data-driven decision-making."
+      ],
+      "achievements":[
+        "I implemented a mobile learning app for migrant children in the US, in partnership with UNICEF and HIAS impacting more than 2,000 beneficiaries through a technological solution focused on interactive education.",
+        "I managed more than 10 technology initiatives in sectors such as education, health and poverty reduction, ensuring successful execution and strategic visibility."
       ]
     },
     {
-      "period": "October 2020 – February 2022",
+      "period": "October 2020 - February 2022",
       "company": "Axxis Systems",
       "companyUrl": "https://www.axxis-systems.com/",
       "role": "PMO Director — SIS 11 Project Management Office",
-      "mainResponsibility": "Led the Project Management Office, overseeing project managers and technical and functional area leaders, coordinating resources across simultaneous projects and reporting to the board of directors.",
-      "highlights": [
-        "Successful implementation of an insurance project in Suriname",
-        "Successful implementation of an insurance project in Chile",
-        "Led the closure of the parameterization phase of a project in Egypt",
-        "Defined PMO priorities and evaluated project directors"
+      "responsibilities": [
+        "Lead the PMO for insurance software implementation projects in countries such as Suriname, Chile, Egypt and Costa Rica, ensuring the comprehensive management of schedules, budget, risks, resources and strategic deliverables.",
+        "Manage multidisciplinary teams made up of PMs, functional leaders and development teams, aligning priorities, dependencies and meeting critical milestones in multicultural and international environments.",
+        "Define metrics, KPIs and executive reporting schemes, as well as coordinate negotiations with clients, validate requirements, manage changes and quality control, ensuring implementations aligned with business objectives and technical standards."
+      ],
+      "achievements": [
+        "I led international implementations of insurance software in countries such as Suriname and Chile, managing strategic projects with contracts of up to USD 1 million.",
+        "I successfully completed 100% of the project implementation in Costa Rica, resolving operational deviations and ensuring compliance with objectives defined with the client.",
+        "I successfully coordinated the closing of the parameterization phase of the project in Egypt, ensuring alignment between teams and stakeholders, guaranteeing readiness for the next implementation stages."
       ]
     },
     {
-      "period": "December 2018 – January 2020",
+      "period": "December 2018 - January 2020",
       "company": "Banco Delta, S.A.",
       "companyUrl": "https://www.bandelta.com/",
       "role": "Project Manager",
-      "mainResponsibility": "Led strategic projects for the bank, including a 3-year institutional strategy, credit portfolio evaluation for potential acquisition, and implementation of changes to core banking systems.",
-      "highlights": [
-        "Developed the bank's 3-year institutional strategy",
-        "Coordinated the evaluation of a credit portfolio for potential acquisition",
-        "Implemented the MPOS payment method",
-        "Managed end-to-end core banking system changes: requirements, testing, deployment, and post-implementation follow-up"
+      "responsibilities": [
+        "Lead strategic and technological transformation initiatives for the bank, aligning innovation, operations and growth projects with institutional objectives and business priorities.",
+        "Coordinate the construction of the 3-year institutional strategic plan, articulating stakeholders (C-Level) and functional areas to define roadmap, strategic initiatives, OKRs and monitoring metrics.",
+        "Manage end-to-end technology projects related to core banking, payment solutions and financial integrations, ensuring control of scope, risks, testing, implementation and executive follow-up through management reporting models and tools such as Excel and Microsoft Project."
+      ],
+      "achievements": [
+        "I led the development of the bank's 3-year institutional strategic plan, aligning innovation, growth, and technological modernization initiatives with the organization's vision.",
+        "I implemented the MPOS solution integrated into the Bantotal banking core, strengthening electronic payment capabilities and improving the customer transaction experience."
       ]
     },
     {
-      "period": "September 2009 – November 2018",
+      "period": "September 2009 - November 2018",
       "company": "Centauri Technologies Corporation",
       "companyUrl": "https://centauritech.com/",
       "role": "Senior Manager Information Systems & Senior Consultant",
-      "mainResponsibility": "Served as Senior Consultant and Information Systems Manager, responsible for business development, contract negotiation, project implementation, client relationship management at the executive level, and staff development.",
-      "highlights": [
-        "Led the 10-year strategic planning project for Ciudad del Saber (Knowledge City Foundation)",
-        "Managed the Panama Digital HUB Strategic ICT Plan 2016–2026 for Capatec",
-        "Directed information security projects for Tribunal Electoral de Panamá and Global Bank",
-        "Led business continuity projects (BCP/DRP) for Telered, S.A. and Global Bank",
-        "Represented the company before organizations such as Capatec and PMI"
+      "responsibilities": [
+        "Lead the sale and execution of IT projects focused on cybersecurity, business continuity, strategic planning and technological transformation for clients in different sectors, ensuring alignment with objectives, international standards and strategic management of relationships with clients, prospects and partners.",
+        "Manage the complete cycle of projects and consultancies, from requirements gathering, proposal preparation and commercial negotiation, to planning, team coordination and executive follow-up using tools such as Jira and Microsoft Project.",
+        "Implement security and continuity frameworks and protocols such as ISO 27001, ISO 22301, ISM3, Business Continuity Plans (BCP) and Disaster Recovery Plans (DRP), strengthening operational resilience, governance, risk management and evolution of technological platforms."
+      ],
+      "achievements": [
+        "I led the development of the Panama Digital Hub ICT Strategic Plan 2016-2026 for CAPATEC, contributing to the definition of strategic initiatives for the national technology ecosystem.",
+        "I led the development of the Strategic Technology Plan for the Electoral Tribunal of Panama, supporting its monitoring for 5 consecutive years.",
+        "I led the strategic support to the Electoral Tribunal of Panama in the process of increasing the level of maturity in information security processes through the implementation of the ISM3 standard, strengthening the standardization and adoption of best practices in security processes."
       ]
-    },
-    {
-      "period": "January 2008 – June 2009",
-      "company": "Senacyt",
-      "companyUrl": "https://www.senacyt.gob.pa/",
-      "role": "Project Manager",
-      "mainResponsibility": "Led the implementation of projects using Semantic Technology for National Strategic Systems in institutions of the Government of Panama.",
-      "highlights": [
-        "Implemented semantic technology solutions for Panama government institutions",
-        "Managed project charters and quality standards for national strategic systems"
-      ]
-    },
-    {
-      "period": "2006 – 2007",
-      "company": "Cable & Wireless Panama",
-      "companyUrl": "https://www.masmovilpanama.com/",
-      "role": "Broadband Product Specialist",
-      "mainResponsibility": "Designed, evaluated, and communicated promotions with financial justification for the Freedom ADSL brand, while analyzing market trends and monitoring competition.",
-      "highlights": [
-        "Coordinated marketing activities for the Freedom ADSL brand",
-        "Developed business cases and financial justifications for promotional campaigns",
-        "Analyzed market trends and monitored competitive landscape"
-      ]
-    },
-    {
-      "period": "2004 – 2006",
-      "company": "Cable & Wireless Panama",
-      "companyUrl": "https://www.masmovilpanama.com/",
-      "role": "Project Manager",
-      "mainResponsibility": "Conceptualized, managed, and implemented core mobile and fixed telephony activation systems, including web-based customer service support tools.",
-      "highlights": [
-        "Implemented the Activation System for Postpaid Mobile",
-        "Implemented the Activation System for Prepaid Mobile",
-        "Developed the Web Support System for Customer Service for telephone activation",
-        "Led improvements to the Fixed Telephony Activation system"
-      ]
-    },
-    {
-      "period": "2001 – 2004",
-      "company": "Cable & Wireless Panama",
-      "companyUrl": "https://www.masmovilpanama.com/",
-      "role": "Systems Analyst",
-      "mainResponsibility": "Administered SQL Server databases and developed key systems including provisioning, data warehousing, online payments, and web reporting.",
-      "highlights": [
-        "Developed the Provisioning System in VS.Net and Genexus",
-        "Implemented a DataWarehouse project with Cognos",
-        "Implemented an Online Payments system",
-        "Developed Web Reports with Business Objects"
-      ]
-    },
-    {
-      "period": "2000 – 2001",
-      "company": "Wizco",
-      "companyUrl": "#",
-      "role": "Programmer / Associate Consultant",
-      "mainResponsibility": "Implemented the Acsel Insurance system at Compañía Assa using Oracle Database and Developer 2000 tools.",
-      "highlights": [
-        "Implemented the Acsel Insurance system for Compañía Assa",
-        "Worked with Oracle Database and Developer 2000 tools"
-      ]
-    },
-    {
-      "period": "1997 – 1999",
-      "company": "Tecnopolis",
-      "companyUrl": "#",
-      "role": "Technician",
-      "mainResponsibility": "Provided computer maintenance and repair services and assisted in personal computing courses.",
-      "highlights": [
-        "Assisted in personal computing training courses",
-        "Performed computer maintenance and repair"
-      ]
-    }
+    }   
   ],
   "es": [
     {
-      "period": "Enero 2025 – Diciembre 2025",
+      "period": "Enero 2025 - Diciembre 2025",
       "company": "Save the Children International",
       "companyUrl": "https://www.savethechildren.org/",
-      "role": "Especialista Regional de Administración del Cambio, Implementación y Entrenamiento",
-      "mainResponsibility": "Apoyó a las áreas de la organización en la implementación de herramientas tecnológicas a nivel global, responsable de la gestión del cambio organizacional, coordinación de implementaciones y diseño de programas de entrenamiento para equipos en múltiples países.",
-      "highlights": [
-        "Lideró la gestión del cambio organizacional para implementaciones tecnológicas globales",
-        "Diseñó y facilitó programas de entrenamiento para equipos en múltiples países",
-        "Coordinó implementaciones asegurando alineación con los objetivos organizacionales"
+      "role": "Regional Digital Transformation Project Manager",
+      "responsibilities": [
+        "Liderar la implementación del sistema PRIME para la gestión de proyectos, asegurando estandarización de procesos, trazabilidad operativa y alineación estratégica con OKRs en Colombia y la región LAC.",
+        "Coordinar portafolios de iniciativas tecnológicas mediante la gestión de cronogramas, riesgos, dependencias y stakeholders regionales, garantizando cumplimiento de hitos estratégicos y objetivos globales.",
+        "Diseñar y ejecutar estrategias de transformación digital, adopción tecnológica y monitoreo de KPIs mediante reportes ejecutivos e indicadores estratégicos, fortaleciendo la toma de decisiones, calidad de datos y madurez operativa de los proyectos."
+      ],
+      "achievements": [
+        "Lideré la recuperación de los indicadores de adopción del sistema PRIME, incrementando el nivel de cumplimiento de un 50% a un 95% en solo 4 meses y manteniendo resultados sostenidos durante 2025.",
+        "Implementé exitosamente PRIME en Colombia, logrando el 100% de cumplimiento antes de la fecha objetivo y alineando al país más grande de la región con los estándares globales de ejecución."
       ]
     },
     {
-      "period": "Marzo 2022 – Enero 2025",
+      "period": "Marzo 2022 - Enero 2025",
       "company": "Save the Children International",
       "companyUrl": "https://www.savethechildren.org/",
       "role": "Especialista Regional de Tecnología para el Desarrollo",
-      "mainResponsibility": "Lideró la implementación de herramientas tecnológicas globales en la región de América Latina y el Caribe (LAC), coordinando con múltiples stakeholders para asegurar adopción y alineación estratégica.",
-      "highlights": [
-        "Lideró la implementación del sistema Prime en Colombia",
-        "Diseñó e implementó sistema de alcance a socios (partner outreach) usando Microsoft PowerApps",
-        "Desarrolló dashboards de reportería en Power BI para operaciones regionales",
-        "Gestionó la implementación de aplicación móvil para el aprendizaje de niños migrantes en EE.UU.",
-        "Emitió reportes semanales de avance a liderazgo en todas las etapas del proyecto"
+      "responsibilities": [
+        "Liderar la implementación de plataformas tecnológicas globales para equipos en la región LAC, coordinando stakeholders internacionales y asegurando alineación estratégica, cumplimiento de objetivos y adopción regional.",
+        "Gestionar iniciativas tecnológicas end-to-end mediante metodologías Agile y Waterfall, incluyendo planificación, seguimiento, evaluación de proveedores, gestión de riesgos y coordinación de equipos multidisciplinarios.",
+        "Diseñar soluciones de gestión y monitoreo regional mediante Microsoft PowerApps y dashboards ejecutivos en Power BI, fortaleciendo la visibilidad de KPIs, reportería estratégica y toma de decisiones basada en datos."
+      ],
+      "achievements": [
+        "Implementé una app móvil de aprendizaje para niños migrantes en EEUU, en alianza con UNICEF y HIAS, impactando a más de 2.000 beneficiarios mediante una solución tecnológica enfocada en educación interactiva.",
+        "Gestioné más de 10 iniciativas tecnológicas en sectores como educación, salud y reducción de pobreza, asegurando ejecución exitosa y visibilidad estratégica. "
       ]
     },
     {
-      "period": "Octubre 2020 – Febrero 2022",
+      "period": "Octubre 2020 - Febrero 2022",
       "company": "Axxis Systems",
       "companyUrl": "https://www.axxis-systems.com/",
       "role": "Director de la Oficina de Proyectos de SIS 11 (Director PMO)",
-      "mainResponsibility": "Lideró la Oficina de Gestión de Proyectos, supervisando gerentes de proyecto y líderes de áreas técnicas y funcionales, coordinando recursos entre proyectos simultáneos y reportando a la junta directiva.",
-      "highlights": [
-        "Implementación exitosa de proyecto de seguros en Surinam",
-        "Implementación exitosa de proyecto de seguros en Chile",
-        "Lideró el cierre de la fase de parametrización de proyecto en Egipto",
-        "Definió las prioridades de la PMO y evaluó a los directores de proyecto"
+      "responsibilities": [
+        "Liderar la PMO para proyectos de implementación de software de seguros en países como Surinam, Chile, Egipto y Costa Rica, asegurando la gestión integral de cronogramas, presupuesto, riesgos, recursos y entregables estratégicos.",
+        "Gestionar equipos multidisciplinarios conformados por PM, líderes funcionales y equipos de desarrollo, alineando prioridades, dependencias y cumplimiento de hitos críticos en entornos multiculturales e internacionales.",
+        "Definir métricas, KPIs y esquemas de reporting ejecutivo, así como coordinar negociaciones con clientes, validación de requerimientos, gestión de cambios y control de calidad, garantizando implementaciones alineadas a objetivos de negocio y estándares técnicos"
+      ],
+      "achievements": [
+        "Lideré implementaciones internacionales de software de seguros en países como Surinam y Chile, gestionando proyectos estratégicos con contratos de hasta USD 1 millón.",
+        "Logré completar el 100% de la implementación del proyecto en Costa Rica, resolviendo desviaciones operativas y asegurando el cumplimiento de objetivos definidos con el cliente.",
+        "Coordiné exitosamente el cierre de la fase de parametrización del proyecto en Egipto, asegurando alineación entre equipos y stakeholders,  garantizando  preparación para las siguientes etapas de implementación. "
       ]
     },
     {
-      "period": "Diciembre 2018 – Enero 2020",
+      "period": "Diciembre 2018 - Enero 2020",
       "company": "Banco Delta, S.A.",
       "companyUrl": "https://www.bandelta.com/",
       "role": "Gerente de Proyectos",
-      "mainResponsibility": "Lideró proyectos estratégicos del banco, incluyendo la elaboración de la estrategia institucional a 3 años, la evaluación de una cartera de créditos y la implementación de cambios en los sistemas principales.",
-      "highlights": [
-        "Elaboró la estrategia institucional del banco a 3 años",
-        "Coordinó la evaluación de una cartera de créditos para posible adquisición",
-        "Implementó el método de pago MPOS",
-        "Gestionó cambios en sistemas core del banco: requerimientos, pruebas, implementación y seguimiento post-implementación"
+      "responsibilities": [
+        "Liderar iniciativas estratégicas y de transformación tecnológica para el banco, alineando proyectos de innovación, operaciones y crecimiento con los objetivos institucionales y prioridades del negocio.",
+        "Coordinar la construcción del plan estratégico institucional a 3 años, articulando stakeholders (C-Level) y áreas funcionales para definir roadmap, iniciativas estratégicas, OKRs y métricas de seguimiento.",
+        "Gestionar proyectos tecnológicos end-to-end relacionados con core bancario, soluciones de pagos e integraciones financieras, asegurando control de alcance, riesgos, pruebas, implementación y seguimiento ejecutivo mediante modelos de reporting gerencial y herramientas como Excel y Microsoft Project."
+      ],
+      "achievements": [
+        "Lideré el desarrollo del plan estratégico institucional del banco a 3 años, alineando iniciativas de innovación, crecimiento y modernización tecnológica con la visión de la organización.",
+        "Implementé la solución MPOS integrada al core bancario Bantotal, fortaleciendo las capacidades de pagos electrónicos y mejorando la experiencia transaccional de los clientes."
       ]
     },
     {
-      "period": "Septiembre 2009 – Noviembre 2018",
+      "period": "Septiembre 2009 - Noviembre 2018",
       "company": "Centauri Technologies Corporation",
       "companyUrl": "https://centauritech.com/",
       "role": "Gerente de Sistemas de Información y Consultor Senior",
-      "mainResponsibility": "Ejerció como Consultor Senior y Gerente de Sistemas, responsable del desarrollo de negocios, negociación de contratos, implementación de proyectos, gestión de relaciones con clientes a nivel ejecutivo y desarrollo profesional del equipo.",
-      "highlights": [
-        "Lideró la planificación estratégica a 10 años de la Ciudad del Saber",
-        "Gestionó el Plan Estratégico de TIC Panamá Hub Digital 2016–2026 para Capatec",
-        "Dirigió proyectos de seguridad informática para el Tribunal Electoral de Panamá y Global Bank",
-        "Lideró proyectos de continuidad de negocios (BCP/DRP) para Telered, S.A. y Global Bank",
-        "Representó a la empresa ante organizaciones como Capatec y el PMI"
-      ]
-    },
-    {
-      "period": "Enero 2008 – Junio 2009",
-      "company": "Senacyt",
-      "companyUrl": "https://www.senacyt.gob.pa/",
-      "role": "Gerente de Proyectos",
-      "mainResponsibility": "Lideró la implementación de proyectos utilizando Tecnología Semántica para Sistemas Estratégicos Nacionales en instituciones del Gobierno de Panamá.",
-      "highlights": [
-        "Implementó soluciones de tecnología semántica para instituciones del Gobierno de Panamá",
-        "Gestionó proyectos con estándares de calidad para sistemas estratégicos nacionales"
-      ]
-    },
-    {
-      "period": "2006 – 2007",
-      "company": "Cable & Wireless Panama",
-      "companyUrl": "https://www.masmovilpanama.com/",
-      "role": "Especialista de Producto Broadband",
-      "mainResponsibility": "Diseñó, evaluó y comunicó promociones con sustentación financiera para la marca Freedom ADSL, analizando tendencias de mercado y monitoreando la competencia.",
-      "highlights": [
-        "Coordinó actividades de marketing de la marca Freedom ADSL",
-        "Desarrolló casos de negocio y sustentaciones financieras para campañas promocionales",
-        "Analizó tendencias de mercado y seguimiento de la competencia"
-      ]
-    },
-    {
-      "period": "2004 – 2006",
-      "company": "Cable & Wireless Panama",
-      "companyUrl": "https://www.masmovilpanama.com/",
-      "role": "Gerente de Proyectos",
-      "mainResponsibility": "Conceptualizó, gestionó e implementó los sistemas de activación de telefonía móvil y fija, incluyendo herramientas web de soporte al cliente.",
-      "highlights": [
-        "Implementó el Sistema de Activación para Postpago Móvil",
-        "Implementó el Sistema de Activación para Prepago Móvil",
-        "Desarrolló el Sistema Web de Soporte a Servicio al Cliente para activación de servicios",
-        "Lideró mejoras al sistema de Activación de Telefonía Fija"
-      ]
-    },
-    {
-      "period": "2001 – 2004",
-      "company": "Cable & Wireless Panama",
-      "companyUrl": "https://www.masmovilpanama.com/",
-      "role": "Analista de Sistemas",
-      "mainResponsibility": "Administró bases de datos SQL Server y desarrolló sistemas clave de aprovisionamiento, data warehousing, pagos en línea y reportería web.",
-      "highlights": [
-        "Desarrolló el Sistema de Aprovisionamiento en VS.Net y Genexus",
-        "Implementó el proyecto DataWarehouse con Cognos",
-        "Implementó sistema de Pagos en Línea",
-        "Desarrolló Reportes Web con Business Objects"
-      ]
-    },
-    {
-      "period": "2000 – 2001",
-      "company": "Wizco",
-      "companyUrl": "#",
-      "role": "Programador / Consultor Asociado",
-      "mainResponsibility": "Implementó el sistema de Seguros Acsel en la Compañía Assa utilizando Base de Datos Oracle y herramientas Developer 2000.",
-      "highlights": [
-        "Implementó el sistema de Seguros Acsel para Compañía Assa",
-        "Trabajó con Base de Datos Oracle y herramientas Developer 2000"
-      ]
-    },
-    {
-      "period": "1997 – 1999",
-      "company": "Tecnopolis",
-      "companyUrl": "#",
-      "role": "Técnico",
-      "mainResponsibility": "Brindó servicios de mantenimiento y reparación de computadoras y asistió en cursos de computación personal.",
-      "highlights": [
-        "Asistente en cursos de computación personal",
-        "Técnico de mantenimiento y reparación de computadoras"
+      "responsibilities": [
+        "Liderar la venta y ejecución de proyectos de TI enfocados en ciberseguridad, continuidad de negocio, planificación estratégica y transformación tecnológica para clientes en diferentes sectores, asegurando alineación con objetivos, estándares internacionales y gestión estratégica de relaciones con clientes, prospectos y socios.",
+        "Gestionar el ciclo completo de proyectos y consultorías, desde el levantamiento de requerimientos, elaboración de propuestas y negociación comercial, hasta la planificación, coordinación de equipos y seguimiento ejecutivo mediante herramientas como Jira y Microsoft Project.",
+        "Implementar frameworks y protocolos de seguridad y continuidad como ISO 27001, ISO 22301, ISM3, Business Continuity Plans (BCP) y Disaster Recovery Plans (DRP), fortaleciendo la resiliencia operativa, governance, gestión de riesgos y evolución de plataformas tecnológicas."
+      ],
+      "achievements": [
+        "Lideré el desarrollo del Plan Estratégico TIC de Panamá Digital Hub 2016–2026 para CAPATEC, contribuyendo a la definición de iniciativas estratégicas para el ecosistema tecnológico nacional.",
+        "Lideré el desarrollo del Plan Estratégico de tecnología para el Tribunal Electoral de Panamá, apoyando el seguimiento del mismo durante 5 años consecutivos.",
+        "Lideré el acompañamiento estratégico al Tribunal Electoral de Panamá en el proceso de aumento del nivel de madurez en procesos de seguridad de la información mediante la implementación del estándar ISM3, fortaleciendo la estandarización y adopción de mejores prácticas en procesos de seguridad."
       ]
     }
   ]

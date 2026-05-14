@@ -149,11 +149,15 @@ $(function () {
 
   function renderExperience(lang) {
     var items = C.experience[lang].map(function (entry) {
+      var resp = L.experience[lang].resp;
+      var achv = L.experience[lang].achv;
       var title = entry.role +
                   ' <span class="text-muted font-weight-normal">at</span> ' +
                   '<a href="' + entry.companyUrl + '">' + entry.company + '</a>';
-      var body  = '<p><strong>Main Responsibility:</strong> ' + entry.mainResponsibility + '</p>' +
-                  buildHighlights(entry.highlights);
+      var body  = '<p><strong>' + resp + ':</strong></p>' +
+                  buildHighlights(entry.responsibilities) +
+                  '<p><strong>' + achv + ':</strong></p>' +
+                  buildHighlights(entry.achievements);
       return buildTimelineItem(title, entry.period, body);
     }).join('\n');
     $('#experience-entries').html('<div class="cc-timeline">' + items + '</div>');
